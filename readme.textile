@@ -1,0 +1,25 @@
+The game is simple to play.
+
+When you run BoxGame.exe you will see the settings screen:
+
+!http://img708.imageshack.us/img708/5603/settingswindow.jpg!
+
+You can select the board size, players (2 human, human and computer or 2 computer) and whether or not making a box results in a free move.  Try playing against the "Good" computer player on a big board.  It's a pretty bad AI but it will capitalize on any mistakes and can win often enough to make it slightly less boring than watching paint dry.
+
+The input system is pretty forgiving.  You just need to be close to the dots for the line to be snapped properly between the intended points.
+
+!http://img202.imageshack.us/img202/4254/manualline.jpg!
+
+The line above snapped to this:
+
+!http://img130.imageshack.us/img130/978/snappedline.jpg!
+
+If the matching algorithm can't find a single reasonable match it will abandon the move and you can try again.
+
+Finally you can play a full game ...
+
+!http://img53.imageshack.us/img53/3680/about2win.jpg!
+
+
+
+
